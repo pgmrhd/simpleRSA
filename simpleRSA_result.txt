@@ -1,1 +1,18 @@
-p, q, m, c
+RSA KeyGen, Enc, Dec
+p: 2357 q: 2551
+n: 6012707 euler(n): 6007800
+e: 7 d: 5149543
+m for Enc: 1234
+Result of Enc: 3642145
+c for Dec: 3642145
+Result of Dec: 1234
+
+RSA KeyGen, Enc, Dec
+p: 885320963 q: 238855417
+n: 211463707796206571 euler(n): 211463706672030192
+e: 5 d: 84585482668812077
+m for Enc: 1234567
+Result of Enc: 93172284411764606
+c for Dec: 93172284411764606
+Result of Dec: 1234567
+[Finished in 0.0s]
